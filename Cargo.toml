@@ -1,4 +1,4 @@
-[project]
+[package]
 name = "iota-editor"
 version = "0.1.0"
 description = "A simple text editor"
